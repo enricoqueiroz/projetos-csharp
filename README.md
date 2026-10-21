@@ -13,8 +13,6 @@ e eventos em C#.
 - **Gerenciador de Tarefas** — lista de tarefas com status
 - **MidiaApp** — reprodução de mídia
 
-Cada pasta tem um print (`print.png`) do app em execução.
-
 ## Como abrir
 Abra o arquivo `.slnx` de cada projeto no Visual Studio e
 pressione F5.
