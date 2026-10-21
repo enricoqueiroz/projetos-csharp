@@ -12,4 +12,4 @@ Aplicações desktop desenvolvidas para praticar interface gráfica, manipulaç�
 - **Conversor de Moeda** — conversor de valores monetários com taxas de câmbio
 
 ## Como abrir
-Abra a solução (`.sln` ou `.slnx`) de cada projeto no Visual Studio e pressione `F5` para executar.
+Descompacte o zip, abra a solução (`.sln` ou `.slnx`) de cada projeto no Visual Studio e pressione `F5` para executar.
