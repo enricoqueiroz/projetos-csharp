@@ -11,7 +11,6 @@ e eventos em C#.
 - **Sistema Lanchonete** — pedidos e cálculo de total
 - **Cadastro Clientes** — cadastro com validação de campos
 - **Gerenciador de Tarefas** — lista de tarefas com status
-- **MidiaApp** — reprodução de mídia
 
 ## Como abrir
 Abra o arquivo `.slnx` de cada projeto no Visual Studio e
